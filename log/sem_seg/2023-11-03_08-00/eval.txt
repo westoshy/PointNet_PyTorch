@@ -1,0 +1,79 @@
+2023-11-03 21:27:10,495 - Model - INFO - PARAMETER ...
+2023-11-03 21:27:10,510 - Model - INFO - Namespace(batch_size=3, gpu='0', log_dir='2023-11-03_08-00', num_point=4096, num_votes=3, test_area=5, visual=False)
+2023-11-03 21:27:38,385 - Model - INFO - PARAMETER ...
+2023-11-03 21:27:38,385 - Model - INFO - Namespace(batch_size=3, gpu='0', log_dir='2023-11-03_08-00', num_point=4096, num_votes=3, test_area=5, visual=False)
+2023-11-03 21:27:57,120 - Model - INFO - PARAMETER ...
+2023-11-03 21:27:57,120 - Model - INFO - Namespace(batch_size=3, gpu='0', log_dir='2023-11-03_08-00', num_point=4096, num_votes=3, test_area=5, visual=False)
+2023-11-03 21:28:30,761 - Model - INFO - The number of test data is: 67
+2023-11-03 21:28:31,135 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2023-11-03 21:29:31,870 - Model - INFO - Mean IoU of Area_5_conferenceRoom_1: 0.3925
+2023-11-03 21:31:53,307 - Model - INFO - Mean IoU of Area_5_conferenceRoom_2: 0.3203
+2023-11-03 21:33:29,839 - Model - INFO - Mean IoU of Area_5_conferenceRoom_3: 0.4414
+2023-11-03 21:39:26,854 - Model - INFO - Mean IoU of Area_5_hallway_1: 0.2670
+2023-11-03 21:40:55,901 - Model - INFO - Mean IoU of Area_5_hallway_10: 0.6663
+2023-11-03 21:41:37,518 - Model - INFO - Mean IoU of Area_5_hallway_11: 0.8153
+2023-11-03 21:42:19,792 - Model - INFO - Mean IoU of Area_5_hallway_12: 0.6054
+2023-11-03 21:43:51,214 - Model - INFO - Mean IoU of Area_5_hallway_13: 0.5801
+2023-11-03 21:44:18,167 - Model - INFO - Mean IoU of Area_5_hallway_14: 0.5903
+2023-11-03 21:45:45,229 - Model - INFO - Mean IoU of Area_5_hallway_15: 0.3848
+2023-11-03 21:53:47,588 - Model - INFO - Mean IoU of Area_5_hallway_2: 0.5990
+2023-11-03 21:54:57,401 - Model - INFO - Mean IoU of Area_5_hallway_3: 0.5791
+2023-11-03 21:55:35,995 - Model - INFO - Mean IoU of Area_5_hallway_4: 0.4791
+2023-11-03 22:00:30,260 - Model - INFO - Mean IoU of Area_5_hallway_5: 0.4235
+2023-11-03 22:01:46,557 - Model - INFO - Mean IoU of Area_5_hallway_7: 0.5992
+2023-11-03 22:02:09,370 - Model - INFO - Mean IoU of Area_5_hallway_8: 0.5603
+2023-11-03 22:03:23,062 - Model - INFO - Mean IoU of Area_5_hallway_9: 0.4488
+2023-11-03 22:04:40,470 - Model - INFO - Mean IoU of Area_5_lobby_1: 0.5517
+2023-11-03 22:05:18,980 - Model - INFO - Mean IoU of Area_5_office_1: 0.3879
+2023-11-03 22:05:58,991 - Model - INFO - Mean IoU of Area_5_office_10: 0.4052
+2023-11-03 22:06:39,311 - Model - INFO - Mean IoU of Area_5_office_11: 0.5262
+2023-11-03 22:07:20,722 - Model - INFO - Mean IoU of Area_5_office_12: 0.5078
+2023-11-03 22:08:12,938 - Model - INFO - Mean IoU of Area_5_office_13: 0.4418
+2023-11-03 22:09:21,914 - Model - INFO - Mean IoU of Area_5_office_14: 0.4712
+2023-11-03 22:10:36,272 - Model - INFO - Mean IoU of Area_5_office_15: 0.4477
+2023-11-04 13:41:22,354 - Model - INFO - PARAMETER ...
+2023-11-04 13:41:22,355 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='2023-11-03_08-00', visual=False, test_area=5, num_votes=3)
+2023-11-04 14:03:18,674 - Model - INFO - PARAMETER ...
+2023-11-04 14:03:18,679 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='2023-11-03_08-00', visual=False, test_area=5, num_votes=3)
+2023-11-04 14:19:55,941 - Model - INFO - PARAMETER ...
+2023-11-04 14:19:55,943 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='2023-11-03_08-00', visual=False, test_area=5, num_votes=3)
+2023-11-04 14:20:04,791 - Model - INFO - The number of test data is: 1
+2023-11-04 14:20:55,708 - Model - INFO - PARAMETER ...
+2023-11-04 14:20:55,709 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='2023-11-03_08-00', visual=False, test_area=5, num_votes=3)
+2023-11-04 14:21:00,326 - Model - INFO - The number of test data is: 1
+2023-11-04 23:24:53,116 - Model - INFO - PARAMETER ...
+2023-11-04 23:24:53,117 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='2023-11-03_08-00', visual=False, test_area=5, num_votes=3, dataset_root='D:\\datasets\\S3DIS\\data\\stanford_indoor3d\\')
+2023-11-05 09:59:51,142 - Model - INFO - PARAMETER ...
+2023-11-05 09:59:51,142 - Model - INFO - Namespace(batch_size=3, dataset_root='D:\\datasets\\S3DIS\\data\\stanford_indoor3d\\', gpu='0', log_dir='2023-11-03_08-00', num_point=4096, num_votes=3, test_area=5, visual=True)
+2023-11-05 09:59:54,992 - Model - INFO - The number of test data is: 1
+2023-11-05 09:59:55,451 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2023-11-05 10:00:59,456 - Model - INFO - Mean IoU of Area_5_conferenceRoom_1: 0.3932
+2023-11-05 10:01:03,665 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.753 
+class floor         , IoU: 0.981 
+class wall          , IoU: 0.609 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.521 
+class door          , IoU: 0.035 
+class table         , IoU: 0.359 
+class chair         , IoU: 0.544 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: 0.125 
+class clutter       , IoU: 0.005 
+
+2023-11-05 10:01:03,680 - Model - INFO - eval point avg class IoU: 0.302492
+2023-11-05 10:01:03,680 - Model - INFO - eval whole scene point avg class acc: 0.371185
+2023-11-05 10:01:03,680 - Model - INFO - eval whole scene point accuracy: 0.733778
+2023-11-05 14:01:08,609 - Model - INFO - PARAMETER ...
+2023-11-05 14:01:08,609 - Model - INFO - Namespace(batch_size=3, dataset_root='D:\\datasets\\S3DIS\\data\\stanford_indoor3d\\', gpu='0', log_dir='2023-11-03_08-00', num_point=4096, num_votes=1, test_area=5, visual=True)
+2023-11-05 14:02:04,204 - Model - INFO - The number of test data is: 67
+2023-11-05 14:02:05,613 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2023-11-05 14:03:33,241 - Model - INFO - PARAMETER ...
+2023-11-05 14:03:33,241 - Model - INFO - Namespace(batch_size=3, dataset_root='D:\\datasets\\S3DIS\\data\\stanford_indoor3d\\', gpu='0', log_dir='2023-11-03_08-00', num_point=4096, num_votes=1, test_area=5, visual=True)
+2023-11-05 14:04:14,510 - Model - INFO - The number of test data is: 67
+2023-11-05 14:04:16,440 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2023-11-05 14:04:41,159 - Model - INFO - Mean IoU of Area_5_conferenceRoom_1: 0.3972
+2023-11-05 14:05:49,631 - Model - INFO - Mean IoU of Area_5_conferenceRoom_2: 0.3184
+2023-11-05 14:06:38,675 - Model - INFO - Mean IoU of Area_5_conferenceRoom_3: 0.4399
